@@ -29,4 +29,4 @@ if __name__ == '__main__': #wenn Bot erste mal startet
 
 
 
-client.run('OTUxMjE5MDI0OTgzODk2MTA0.YikRwA.KUouHMLsPIWjtLTtZu7Nr6ojCRA')
+client.run('')
